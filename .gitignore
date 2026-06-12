@@ -1,0 +1,27 @@
+# Virtual environment
+venv/
+env/
+VMV/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Dataset (IMPORTANT)
+data/
+*.csv
+
+# Model files (optional but recommended)
+models/
+*.pkl
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
