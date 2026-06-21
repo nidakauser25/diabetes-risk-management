@@ -79,13 +79,13 @@ Username: admin
 Password: admin123
 
 👩‍💻 Author Details
-Name: Shariqua Tabassum G
-Intern ID: CITS3942
+Name: Nida kauser
+Intern ID: CITS3998
 Company: Codtech IT Solutions
 Internship Duration: 4 Weeks
 
 📌 GitHub Repository
-🔗 https://github.com/shariqua06/diabetes-risk-management⁠�
+🔗 https://github.com/nidakauser25/diabetes-risk-management/edit/main/README.md
 
 ⭐ Outcome
 This project demonstrates the application of Machine Learning in healthcare for early diabetes risk detection using a clean and interactive web interface.
